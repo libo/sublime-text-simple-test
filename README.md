@@ -3,7 +3,6 @@ Sublime Text 2 Simple Test
 
 Overview
 --------
-
   - It save the path of the current file into ~/.last_test
   - It calls a script t to run it
 
@@ -26,6 +25,10 @@ fi
 
 ```
 
+Usage
+-----
+
+ - Run single test: `Command-Control-t`
 
 Installation
 ------------
